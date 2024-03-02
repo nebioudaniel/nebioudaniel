@@ -9,19 +9,7 @@
 📫 Let's connect and embark on this journey together! Reach me through email@example.com or find me on LinkedIn for engaging discussions and exciting opportunities.
 
 💻 And yes, I absolutely adore coding! It's not just a skill or a profession; it's a medium through which I express my creativity, solve problems, and build solutions that make a difference. Let's code something incredible!
-        🚀
-        |
-        |             🌱
-        |             |
-        |             |
-        |          🎓-📚
-        |          |   |
-        |          |   |
-        |     💻-📈-🤖-🔬
-________|_______|___|___|_________________________________
-Start    |      |   |   |                     Present
-        2010   2015|  2018
-                 2020
+   
 🚀: Start of your journey
 🌱: Initial learning phase
 🎓: Academic education
