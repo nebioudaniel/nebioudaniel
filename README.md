@@ -1,20 +1,56 @@
-👋 Hi, I’m @nebioudaniel
 
-👀 I’m passionate about crafting elegant solutions to complex problems, exploring the vast landscape of technology, and constantly pushing the boundaries of what's possible.
 
-🌱 I’m currently immersing myself in the realms of machine learning and artificial intelligence, delving into the latest advancements and methodologies to drive innovation forward.
+Welcome to my README file where I'll showcase my awesome expertise! 🚀
 
-💡 I’m enthusiastic about collaborating on projects that challenge conventional thinking, inspire creativity, and have a meaningful impact on society. Whether it's developing cutting-edge software or brainstorming revolutionary ideas, count me in!
+## About Me
 
-📫 Let's connect and embark on this journey together! Reach me through email@example.com or find me on LinkedIn for engaging discussions and exciting opportunities.
+Hey there! I'm Nebiou Daniel, a full Stack enginner with a passion for building modern web app with moder functionalty . With 3 years of experience in the field, I've honed my skills in web development and design and managment , and I'm excited to share my knowledge with you!
 
-💻 And yes, I absolutely adore coding! It's not just a skill or a profession; it's a medium through which I express my creativity, solve problems, and build solutions that make a difference. Let's code something incredible!
-   
-🚀: Start of your journey
-🌱: Initial learning phase
-🎓: Academic education
-📚: Continued self-learning and exploration
-💻: Entry into the world of coding
-📈: Progression and growth in coding skills
-🤖: Diving into machine learning and AI
-🔬: Exploring advanced technologies and researc
+## 🌟 Expertise
+
+Here are some areas where I excel:
+
+- **Programming Languages and frame works and libraris :** I'm proficient in  Html,css,js ,react,angular vute and more in ui and django,flask,node,express ,ejs, and prisma  and I love to build [Type of Applications].
+- **Web Development:** From front-end to back-end, I've got you covered! I specialize in Next js and node.js .
+- **Data Analysis:** I enjoy diving into data to uncover insights and make data-driven decisions.
+- **Problem Solving:** I thrive on solving complex problems and finding efficient solutions.
+
+## 🛠️ Tools & Technologies
+
+I'm skilled in using a variety of tools and technologies, including:
+- **Databases:** sql & mongo db
+- **Tools:** 
+- **Platforms:** [List of Platforms]
+- **Other:** [Any other relevant technologies]
+
+## 📜 Projects
+
+Here are some projects I've worked on:
+
+1. **Project Name:** Brief description of the project. [GitHub Repository](#)
+   - Technologies used: [List of Technologies]
+   - Description: Brief overview of the project and its objectives.
+
+2. **Project Name:** Brief description of the project. [GitHub Repository](#)
+   - Technologies used: [List of Technologies]
+   - Description: Brief overview of the project and its objectives.
+
+## 📚 Blog & Articles
+
+I love sharing my insights and experiences through blog posts and articles. Here are some of my recent writings:
+
+- [Article Title](#): Brief description of the article and key insights.
+- [Article Title](#): Brief description of the article and key insights.
+- [Article Title](#): Brief description of the article and key insights.
+
+## 📫 Get in Touch
+
+I'm always open to collaborations and new opportunities! Feel free to reach out to me via:
+
+- Email: rootknown123@gmail.com
+- LinkedIn: 
+- Twitter:
+- Instagram:https://www.instagram.com/nebioudaniel
+- Telegram:https://web.tel.onl/@neba1338
+
+Let's connect and create something amazing together! 😊✨
