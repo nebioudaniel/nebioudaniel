@@ -16,3 +16,4 @@ Here are some areas where I excel:
 - **Problem Solving:** I thrive on solving complex problems and finding efficient solutions.
 
 
+[Uploading (FREE COPY) Nebiou Daniel Resume.pdf…]()
