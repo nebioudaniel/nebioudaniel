@@ -14,6 +14,4 @@ Here are some areas where I excel:
 - **Web Development:** From front-end to back-end, I've got you covered! I specialize in Next js and node.js .
 - **Data Analysis:** I enjoy diving into data to uncover insights and make data-driven decisions.
 - **Problem Solving:** I thrive on solving complex problems and finding efficient solutions.
-
-
-[Uploading (FREE COPY) Nebiou Daniel Resume.pdf…]()
+Thank You !!!!!
