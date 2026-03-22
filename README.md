@@ -1,16 +1,43 @@
+# 👋 Hi, I'm Nebiou Daniel  
+###  Developer
+
+I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedicated to building modern web and mobile applications with high-impact functionality. I specialize in the **TypeScript ecosystem** and love integrating **AI/LLMs** into real-world business solutions.
+
+---
+
+## 🌟 About Me
+* 🏗️ **Currently:** Building digital infrastructure for the Ethiopian market at **Amani**.
+* 🎓 **Education:** 1st year student at student at **Addis Ababa University**.
+* 📽️ **Content Creator:** Documenting my professional growth on my tiktok and Youtub, **"From 0 with Nebiou."**
+* 💡 **Philosophy:** I thrive on solving complex problems and turning "raw thoughts" into scalable products.
+
+---
+
+## 🛠️ Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js, React, Tailwind CSS, TypeScript, Shadcn/UI |
+| **Backend** | Node.js, Express,Typescript , Flask |
+| **Database** | Prisma ORM, Neon DB, PostgreSQL, Supabase |
+| **AI & Automation** | DeepSeek, OpenRouter, Telegram Bot API, Python |
 
 
-Welcome to my README file where I'll showcase my awesome expertise! 🚀
-## About Me
 
-Hey there! I'm Nebiou Daniel, a full Stack enginner with a passion for building modern web app with moder functionalty . With 3 years of experience in the field, I've honed my skills in web development and design and managment , and I'm excited to share my knowledge with you!
 
-## 🌟 Expertise
+## 📊 Performance & Goals
+- **Problem Solving:** I enjoy diving deep into data to uncover insights and make data-driven decisions.
+- **Fitness:** I maintain a consistent routine—staying sharp mentally and physically.
+- **Current Focus:** Master LLM fine-tuning and expanding digital infrastructure in East Africa.
 
-Here are some areas where I excel:
+---
 
-- **Programming Languages and frame works and libraris :** I'm proficient in  Html,css,js ,react,angular vute and more in ui and django,flask,node,express ,ejs, and prisma  and I love to build [Type of Applications].
-- **Web Development:** From front-end to back-end, I've got you covered! I specialize in Next js and node.js .
-- **Data Analysis:** I enjoy diving into data to uncover insights and make data-driven decisions.
-- **Problem Solving:** I thrive on solving complex problems and finding efficient solutions.
-Thank You !!!!!
+## 📫 Connect with Me
+- **Portfolio/Blog:** [Coming Soon]
+- **YouTube:** [From 0 with Nebiou](https://youtube.com/...)
+- **LinkedIn:** [https://www.linkedin.com/in/nebyiou-daniel-5086b8315/]
+- **Telegram:** [@nebyiou_daniel]
+
+---
+
+### "Learn More Build Better" 🇪🇹
