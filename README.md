@@ -23,7 +23,7 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 | **Frontend** | Next.js, React, Tailwind CSS, TypeScript, Shadcn/UI |
 | **Backend** | Node.js, Express,Typescript , Flask |
 | **Database** | Prisma ORM, Neon DB, PostgreSQL, Supabase |
-| **AI & Automation** | DeepSeek, OpenRouter, Telegram Bot API, Python |
+| **AI & Automation** | DeepSeek, OpenRouter, Telegram Bot API, Python,openAi , Gmini ai |
 
 
 
