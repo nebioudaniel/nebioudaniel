@@ -7,7 +7,7 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 
 ## 🌟 About Me
 * 🏗️ **Currently:** Building digital infrastructure for the Ethiopian market at **Amani**.
-* 🎓 **Education:** 1st year student at student at **Addis Ababa University**.
+* 🎓 **Education:** 1st year student at student at **Ethiopia Public Service EPSU  University**.
 * 📽️ **Content Creator:** Documenting my professional growth on my tiktok and Youtub, **"From 0 with Nebiou."**
 * 💡 **Philosophy:** I thrive on solving complex problems and turning "raw thoughts" into scalable products.
 
