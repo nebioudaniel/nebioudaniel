@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nebiou Daniel  
-###  Developer
+# Developer
 
 I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedicated to building modern web and mobile applications with high-impact functionality. I specialize in the **TypeScript ecosystem** and love integrating **AI/LLMs** into real-world business solutions.
 
@@ -33,11 +33,9 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 ---
 
 ## 📫 Connect with Me
-- **Portfolio/Blog:** [Coming Soon]
-- **YouTube:** [From 0 with Nebiou](https://youtube.com/...)
 - **LinkedIn:** [https://www.linkedin.com/in/nebyiou-daniel-5086b8315/]
 - **Telegram:** [@nebyiou_daniel]
 
 ---
 
-### "Learn More Build Better" 🇪🇹
+## Learn More Build Better🇪🇹
