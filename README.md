@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Nebiou Daniel  
+
+![1773218955152](https://github.com/user-attachments/assets/ceac784d-2ba3-4084-9ca4-612e68beeedf)
+
+Hi, I'm Nebiou Daniel  
 # Developer
 
 I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedicated to building modern web and mobile applications with high-impact functionality. I specialize in the **TypeScript ecosystem** and love integrating **AI/LLMs** into real-world business solutions.
