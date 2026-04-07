@@ -4,7 +4,7 @@
 Hi, I'm Nebiou Daniel  
 # Developer
 
-I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedicated to building modern web and mobile applications with high-impact functionality. I specialize in the **TypeScript ecosystem** and love integrating **AI/LLMs** into real-world business solutions.
+I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedicated to building modern web  applications with high-impact functionality. I specialize in the **TypeScript ecosystem** and love integrating **AI/LLMs** into real-world business solutions.
 
 ---
 
@@ -23,7 +23,7 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 | **Frontend** | Next.js, React, Tailwind CSS, TypeScript, Shadcn/UI |
 | **Backend** | Node.js, Express,Typescript , Flask |
 | **Database** | Prisma ORM, Neon DB, PostgreSQL, Supabase |
-| **AI & Automation** | DeepSeek, OpenRouter, Telegram Bot API, Python,openAi , Gmini ai |
+| **AI & Automation** | DeepSeek, OpenRouter, Telegram Bot API, Python,openAi|
 
 
 
