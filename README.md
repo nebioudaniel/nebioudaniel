@@ -8,15 +8,15 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 
 ---
 
-## 🌟 About Me
-* 🏗️ **Currently:** Building digital infrastructure for the Ethiopian market at **Amani**.
-* 🎓 **Education:** 1st year student at student at **Ethiopia Public Service EPSU  University**.
-* 📽️ **Content Creator:** Documenting my professional growth on my tiktok and Youtub, **"From 0 with Nebiou."**
-* 💡 **Philosophy:** I thrive on solving complex problems and turning "raw thoughts" into scalable products.
+##  About Me
+*  **Currently:** Building digital infrastructure for the Ethiopian market at **Amani**.
+*  **Education:** 1st year student at student at **Ethiopia Public Service EPSU  University**.
+*  **Content Creator:** Documenting my professional growth on my tiktok and Youtub, **"From 0 with Nebiou."**
+*  **Philosophy:** I thrive on solving complex problems and turning "raw thoughts" into scalable products.
 
 ---
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,17 +28,17 @@ I’m a passionate **Full-Stack Developer** based in Addis Ababa, Ethiopia, dedi
 
 
 
-## 📊 Performance & Goals
+##  Performance & Goals
 - **Problem Solving:** I enjoy diving deep into data to uncover insights and make data-driven decisions.
 - **Fitness:** I maintain a consistent routine—staying sharp mentally and physically.
 - **Current Focus:** Master LLM fine-tuning and expanding digital infrastructure in East Africa.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/nebyiou-daniel-5086b8315/]
 - **Telegram:** [@nebyiou_daniel]
 
 ---
 
-## Learn More Build Better🇪🇹
+## Learn More Build Better
