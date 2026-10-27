@@ -3,7 +3,7 @@
 
 It’s Neybiou Daniel 👋
 
-Backend Engineer · AI Engineer
+Backend Engineer & AI Developer | Building APIs, Intelligent Applications & Scalable Systems | Open Source
 
 Building scalable systems, powerful APIs, and AI-driven applications.
 
